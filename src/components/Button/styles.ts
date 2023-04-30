@@ -1,5 +1,5 @@
-import { StyleSheet } from 'react-native';
-import { THEME } from '../../styles/theme';
+import { StyleSheet } from 'react-native'
+import { THEME } from '../../styles/theme'
 
 export const styles = StyleSheet.create({
   container: {
@@ -9,12 +9,12 @@ export const styles = StyleSheet.create({
     borderRadius: 6,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: THEME.COLORS.BRAND_MID,
+    backgroundColor: THEME.COLORS.PINK_MID,
     marginRight: 16,
   },
   title: {
     color: THEME.COLORS.WHITE,
     fontFamily: 'Roboto_700Bold',
-    fontSize: 16
-  }
-});
+    fontSize: 16,
+  },
+})

@@ -1,11 +1,10 @@
-import { StyleSheet } from 'react-native';
+import { StyleSheet } from 'react-native'
 
-import { THEME } from '../../styles/theme';
+import { THEME } from '../../styles/theme'
 
 export const styles = StyleSheet.create({
   container: {
     width: '100%',
-    marginBottom: 21,
   },
   header: {
     width: '100%',
@@ -21,9 +20,9 @@ export const styles = StyleSheet.create({
     fontSize: 16,
   },
   question: {
-    color: '#C4C4CC'
+    color: '#C4C4CC',
   },
   length: {
-    color: '#C4C4CC'
+    color: '#C4C4CC',
   },
-});
+})
