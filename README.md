@@ -47,7 +47,7 @@ $ expo start
 
 The application layout is available on Figma:
 
-<a href="https://www.figma.com/file/OAZ5OEbUVG9ZE4zPo91dsZ/Ignite-Teams-(Community)?node-id=37%3A6&t=0UEtzsCbHkoJ0t86-0">
+<a href="https://www.figma.com/file/RLeqkfyRrm2rb68VzOGKsz/Ignite-Quiz?type=design&node-id=37-6&t=gZlDLgPHj8FuRteE-0">
   <img alt="Made by rocketseat" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 <br>
