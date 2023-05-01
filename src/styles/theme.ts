@@ -16,6 +16,9 @@ export const THEME = {
     PINK_MID: '#9c27b0',
     PINK_LIGHT: '#d500f9',
 
+    STAR_BLUE: '#57B6E5',
+    STAR_GRAY: '#6F6F6F',
+
     LABEL: '#A6A1B2',
   },
   FONTS: {
