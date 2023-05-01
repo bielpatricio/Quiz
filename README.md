@@ -53,8 +53,12 @@ The application layout is available on Figma:
 <br>
 
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  
+<div align="center">
+
+![quizIgnite](https://user-images.githubusercontent.com/32223762/235409817-44980f3e-23b4-48a3-ac4a-a66e988c8b9d.gif)
+
+
+</div>
  <br>
 
 <br>
