@@ -24,7 +24,7 @@
 
 # About The Project
 
-Teams Ignite App using React Native! Project of React Native Ignite from Rocketseat.
+Quiz Ignite App using React Native! Project of React Native Ignite from Rocketseat. This project it is to create and learn how to build an app with animation, mobile gestures and mobile functions. 
 
 <br>
 
